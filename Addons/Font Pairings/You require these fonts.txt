@@ -1,0 +1,15 @@
+1. Raleway (font family)
+2. Lato (font family)
+3. Open Sans (font family)
+4. Poppins (font family)
+5. Roboto (font family)
+6. Barlow (font family)
+7. Ubuntu (font family)
+8. Disket Mono
+
+
+B - Bold
+SB - Semi bold
+EB - Extra bold
+R - Regular
+L - Light

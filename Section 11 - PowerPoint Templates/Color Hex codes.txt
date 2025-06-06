@@ -1,0 +1,7 @@
+Bright - #DFDCDF
+Dark   - #27272B
+
+Accent 1 - #6A30FE
+Accent 2 - #9F4CFD
+Accent 3 - #E16BE6
+Accent 4 - #FB89CC
